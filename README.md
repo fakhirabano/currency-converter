@@ -22,7 +22,6 @@
    Make sure to replace [PORT] with your localhost port
 
    c. Refer to the following image to pass relevant parameters to get the conversion results:
-   https://github.com/fakhirabano/currency-converter/blob/master/blob/postman_screenshot.jpg
    
    ![alt text](https://github.com/fakhirabano/currency-converter/blob/master/blob/postman_screenshot.jpg?raw=true)
 
