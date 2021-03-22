@@ -1,3 +1,11 @@
+This is a basic project of Currency Conversion using API and to run on localhost e.g. MAMP, XAMP etc. 
+
+It uses https://fixer.io/ as  currency exchange rate provider. 
+
+This project can be run using POSTMAN and providing 3 parameters, 'from currency', 'to currency' in 'STR' format and 'amount' in (decimal)numbers. It generates conversion 'result' and stores each conversion details into the database named 'currency_converter'. There is a basic unit test developed.
+
+More details are as follows:
+
 # STEPS to RUN the project
 
 1. Clone the project code to your project inside localhost folder e.g. MAMP/htdocs/
