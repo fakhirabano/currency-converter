@@ -22,8 +22,7 @@
    Make sure to replace [PORT] with your localhost port
 
    c. Refer to the following image to pass relevant parameters to get the conversion results:
-
-   ![Postman Screenshot](https://github.com/fakhirabano/currency-converter/blob/postman_screenshot.jpg?raw=true)
+   ![Postman Screenshot](https://github.com/fakhirabano/currency-converter/master/blob/postman_screenshot.jpg?raw=true)
 
 6. To run Unit Test
    a. Navigate to project folder in the terminal and enter the following command
